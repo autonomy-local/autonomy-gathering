@@ -3,7 +3,8 @@ name: sample
 about: テンプレート
 title: ''
 labels: docs
-milestones: gathering-managed-service
+milestone: gathering-managed-service
+projects: autonomy
 assignees: 
 
 ---
