@@ -2,7 +2,7 @@
 name: hope
 about: こうなったらよいのに！を表明するため
 title: ''
-labels: ''
+labels: hope
 assignees: ''
 
 ---

@@ -2,8 +2,8 @@
 name: contribute
 about: こうする！を表明するため
 title: ''
-labels: ''
-assignees: yamashita-kenngo
+labels: contribute
+assignees: 
 
 ---
 

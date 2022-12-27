@@ -2,7 +2,7 @@
 name: require
 about: こうしたい！を表明するため
 title: ''
-labels: ''
+labels: require
 assignees: ''
 
 ---

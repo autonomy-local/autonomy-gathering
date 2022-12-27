@@ -2,7 +2,7 @@
 name: suggest
 about: こうしたらどうだろう？を表明するため
 title: ''
-labels: ''
+labels: suggest
 assignees: ''
 
 ---
