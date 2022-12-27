@@ -2,8 +2,8 @@
 name: sample
 about: テンプレート
 title: ''
-labels: 'sample'
-milestones: 'gathering-managed-service'
+labels: docs
+milestones: gathering-managed-service
 assignees: 
 
 ---
